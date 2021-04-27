@@ -1,0 +1,14 @@
+Source: my-first-ppa-pkg
+Section: utils
+Priority: extra
+Maintainer: owaishanif <owaishanif786@gmail.com>
+Build-Depends: debhelper (>= 5), cdbs (>= 0.2)
+Standards-Version: 3.8.0
+
+Package: my-first-ppa-pkg
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, bash (>= 2)
+Description: Say hello using first ppa pkg
+ Long lines of description. Each line start with space.
+ .
+ After dot shows that there is new paragraph
