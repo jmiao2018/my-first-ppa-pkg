@@ -2,6 +2,7 @@ Source: my-first-ppa-pkg
 Section: utils
 Priority: extra
 Maintainer: owaishanif <owaishanif786@gmail.com>
+Suggests: Thanks for your source. by Jun Miao
 Build-Depends: debhelper (>= 5), cdbs (>= 0.2)
 Standards-Version: 3.8.0
 
