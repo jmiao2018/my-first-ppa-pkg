@@ -1,5 +1,5 @@
-my-first-ppa-pkg (1.0-0ubuntu1~ppa1) trusty; urgency=low
+my-first-ppa-pkg (1.0-0ubuntu1~ppa1) xenial; urgency=low
 
   * Initial release
 
- -- owaishanif <owaishanif786@gmail.com>  Thu, 17 Sep 2015 15:54:28 +0500
+ -- junmiao <jun.miao@windriver.com>  Thu, 17 Sep 2015 15:54:28 +0500
